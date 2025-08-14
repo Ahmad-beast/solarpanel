@@ -47,5 +47,6 @@ pip install -r requirements.txt
 ## 3 Run the App
 **To Run the APP (This is for MACOS)**
   ```bash
-python3 -m streamlit run app.py```
+python3 -m streamlit run app.py
+```
 ---
